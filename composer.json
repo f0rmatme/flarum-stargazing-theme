@@ -1,6 +1,6 @@
 {
-  "name": "f0rmatme/flarum-stargazing-theme",
-  "description": "Stargazing theme dark.",
+  "name": "f0rmatme/flarum-stargazing-themedark",
+  "description": "Stargazing dark.",
   "keywords": [
     "flarum",
     "theme",
@@ -9,8 +9,8 @@
   "type": "flarum-extension",
   "license": "MIT",
   "authors": [{
-    "name": "Hasan Özbey",
-    "email": "hasanoozbey@gmail.com",
+    "name": "formatme",
+    "email": "gmleaked@gmail.com",
     "homepage": "https://github.com/f0rmatme/"
   }],
   "support": {
