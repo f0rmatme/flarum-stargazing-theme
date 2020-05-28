@@ -1,6 +1,6 @@
 {
-  "name": "@the-turk/flarum-stargazing-theme",
-  "description": "Stargazing theme for your Flarum forum.",
+  "name": "@f0rmatme/flarum-stargazing-theme",
+  "description": "Stargazing theme dark.",
   "license": "MIT",
   "version": "0.1.0-beta.1",
   "dependencies": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/the-turk/flarum-stargazing-theme.git"
+    "url": "git://github.com/f0rmatme/flarum-stargazing-theme.git"
   },
   "scripts": {
     "watch": "webpack --mode development --watch",
