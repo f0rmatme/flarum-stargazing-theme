@@ -15,7 +15,7 @@ class AddAssets
   /**
    * @var string $settingsPrefix
    */
-  public $settingsPrefix = 'the-turk-stargazing-theme.';
+  public $settingsPrefix = 'the-turk-stargazing-themedark.';
 
   /**
    * LoadSettingsFromDatabase constructor
