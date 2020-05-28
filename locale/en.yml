@@ -1,6 +1,6 @@
-the-turk-stargazing-theme:
+the-turk-stargazing-themedark:
   admin:
     settings:
-      title:                 Stargazing Theme Settings
+      title:                 Stargazing Theme dark Settings
       relocateSidebar:       Relocate sidebar to the right
       enableStarsBackground: Enable "Stars" background
