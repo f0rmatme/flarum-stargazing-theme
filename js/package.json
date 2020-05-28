@@ -1,5 +1,5 @@
 {
-  "name": "@f0rmatme/flarum-stargazing-theme",
+  "name": "@f0rmatme/flarum-stargazing-themedark",
   "description": "Stargazing theme dark.",
   "license": "MIT",
   "version": "0.1.0-beta.1",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/f0rmatme/flarum-stargazing-theme.git"
+    "url": "git://github.com/f0rmatme/flarum-stargazing-themedark.git"
   },
   "scripts": {
     "watch": "webpack --mode development --watch",
