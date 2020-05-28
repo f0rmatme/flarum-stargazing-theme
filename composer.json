@@ -14,8 +14,8 @@
     "homepage": "https://github.com/f0rmatme/"
   }],
   "support": {
-    "issues": "https://github.com/f0rmatme/flarum-stargazing-theme/issues",
-    "source": "https://github.com/f0rmatme/flarum-stargazing-theme"
+    "issues": "https://github.com/f0rmatme/flarum-stargazing-themedark/issues",
+    "source": "https://github.com/f0rmatme/flarum-stargazing-themedark"
   },
   "require": {
     "flarum/core": "^0.1.0-beta.10"
