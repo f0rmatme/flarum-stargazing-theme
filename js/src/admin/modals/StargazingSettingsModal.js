@@ -3,8 +3,8 @@ import SettingsModal from 'flarum/components/SettingsModal';
 import Switch from 'flarum/components/Switch';
 
 // just to make things easier
-const settingsPrefix = 'the-turk-stargazing-theme.';
-const translationPrefix = 'the-turk-stargazing-theme.admin.settings.';
+const settingsPrefix = 'the-turk-stargazing-themedark.';
+const translationPrefix = 'the-turk-stargazing-themedark.admin.settings.';
 
 export default class StargazingSettingsModal extends SettingsModal {
   title() {
