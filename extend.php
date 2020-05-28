@@ -36,7 +36,7 @@ return [
         $app->resolving('flarum.assets.forum', function (Assets $assets) use ($settings) {
             $assets->css(function (SourceCollector $sources) use ($settings) {
                 $sources->addString(function () use ($settings) {
-                    $relocateSidebar = (bool)$settings->get('the-turk-stargazing-theme.relocateSidebar', true);
+                    $relocateSidebar = (bool)$settings->get('the-turk-stargazing-themedark.relocateSidebar', true);
 
                     $vars = [
                         'config-right-sidebar' => $relocateSidebar ? 'true' : 'false',
