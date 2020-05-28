@@ -1,8 +1,8 @@
 {
   "name": "@f0rmatme/flarum-stargazing-themedark",
-  "description": "Stargazing theme dark.",
+  "description": "theme dark.",
   "license": "MIT",
-  "version": "0.1.0-beta.1",
+  "version": "0.1.0",
   "dependencies": {
     "copy-webpack-plugin": "^5.1.1",
     "flarum-webpack-config": "0.1.0-beta.10",
