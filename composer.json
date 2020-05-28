@@ -27,7 +27,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "Stargazing Theme Dark",
+      "title": "Theme Dark",
       "icon": {
         "name": "fas fa-rocket",
         "backgroundColor": "#C94BBF",
